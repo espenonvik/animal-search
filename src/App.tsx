@@ -6,7 +6,6 @@ import {Animal} from "./shared/interfaces/animal.interface";
 function App() {
   const [animals, setAnimals] = useState<Animal[]>([])
 
-
   useEffect(() => {
     searchForAnimalType('').then(() => console.log('Initial animal list loaded'));
   }, []);
