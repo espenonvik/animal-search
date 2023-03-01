@@ -11,11 +11,14 @@ The app was coded with Typescript using Node.js and the Express framework for th
 Build and start the server:
 ```
 > cd server
+> npm install
 > npm run start
 
 ```
 
 Start the frontend
 ```
+# cd to project root
+> npm install
 > npm run dev
 ```
