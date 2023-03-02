@@ -9,7 +9,7 @@ The app is using Node.js and the Express framework for the backend, and React fo
 - [Node.js](https://nodejs.org/en/)
 
 ## Running locally
-Build and start the backend:
+Starting the backend:
 ```
 > cd server
 > npm install
@@ -17,7 +17,7 @@ Build and start the backend:
 
 ```
 
-Start the frontend
+Starting the frontend app:
 ```
 # cd to project root
 > npm install
