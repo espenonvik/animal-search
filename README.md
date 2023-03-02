@@ -1,6 +1,6 @@
 # Animal search
 
-Animal search is an assignment from the Fireship.io course ***React - The full course***. 
+Animal search is an excercise from the Fireship.io course ***React - The full course***. 
 
 The app is using Node.js and the Express framework for the backend, and React for the frontend. Vite is used for frontend build tooling and npm for package management.
 
